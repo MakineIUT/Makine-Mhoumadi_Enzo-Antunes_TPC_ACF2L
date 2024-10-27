@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: black;
+}
+.navbar-nav .nav-link {
+    color: white;
+    font-size: 18px;
+}
+.navbar-brand img {
+    height: 40px;
+}
+.contact-form {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+.contact-form h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.contact-form p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.contact-form .form-control {
+    margin-bottom: 20px;
+    height: 45px;
+}
+.contact-form .form-control.message {
+    height: 150px;
+}
+.contact-form button {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+}
